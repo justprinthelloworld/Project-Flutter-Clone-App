@@ -1,0 +1,13 @@
+เขียนแหล่งที่มา:
+YOUTUBE Channel : The Flutter Way
+Video: https://youtu.be/u3Mm5Ic-7LM?si=jTtTPeRNk8wXnF84
+starting point for a Flutter application: https://github.com/abuanwar072/Vice-Animation.git
+
+เขียนรายชื่อ packages ที่ใช้ในโปรเจค:
+dependencies:
+  cached_network_image: ^3.3.1
+  cupertino_icons: ^1.0.6
+  flutter:
+    sdk: flutter
+  fluttericon: ^2.0.0
+  google_fonts: ^5.1.0
